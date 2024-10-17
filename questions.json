@@ -1,0 +1,34 @@
+{
+    "questions": [
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options":[
+                "Earth",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "What element has the chemical symbol 'O'?",
+            "options":[
+                "Osmium",
+                "Oxygen",
+                "Gold",
+                "Oganesson"
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question": "What year the Titanic sink?",
+            "options":[
+                "1910",
+                "1912",
+                "1915",
+                "1918"
+            ],
+            "answer": "1912"
+        }
+    ]
+}
